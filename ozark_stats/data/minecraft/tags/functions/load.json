@@ -1,0 +1,6 @@
+{
+    "values": [
+        "ozark_stats:load",
+        "ozark_stats:tick"
+    ]
+}
