@@ -31,3 +31,4 @@ scoreboard objectives add ozarkPlaytime dummy "Play Time in mins"
 scoreboard objectives add ozarkPlaytimeS dummy "Play Time in mins Show"
 scoreboard objectives add ozarkPlaytick minecraft.custom:minecraft.play_time
 
+scoreboard objectives add ozarkXP xp

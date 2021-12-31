@@ -20,6 +20,7 @@ scoreboard objectives remove oc_constant
 scoreboard objectives remove ozarkPlaytime
 scoreboard objectives remove ozarkPlaytimeS
 scoreboard objectives remove ozarkPlaytick
+scoreboard objectives remove ozarkXP
 
 schedule clear ozark_stats:update_score
 schedule clear ozark_stats:tick
