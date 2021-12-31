@@ -27,8 +27,8 @@ scoreboard players operation @s totalDistM += @s sprintM
 scoreboard players operation @s totalDistMShow = @s totalDistM
 
 # Total distance travelled KM
-scoreboard players operation @s totalDistKm = @s walkKm
-scoreboard players operation @s totalDistKm += @s sprintKm
+scoreboard players operation @s totalDistKm = @s totalDistM
+scoreboard players operation @s totalDistKm /= 1000 oc_constant
 scoreboard players operation @s totalDistShow = @s totalDistKm
 
 # Win Ratio

@@ -25,6 +25,7 @@ scoreboard objectives add ozarkAdv dummy "Ozark ADV"
 scoreboard objectives add oc_constant dummy "Ozark Constants"
 scoreboard players set 1200 oc_constant 1200
 scoreboard players set 100000 oc_constant 100000
+scoreboard players set 1000 oc_constant 1000
 scoreboard players set 100 oc_constant 100
 
 scoreboard objectives add ozarkPlaytime dummy "Play Time in mins"
